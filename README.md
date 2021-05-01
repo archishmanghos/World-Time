@@ -1,16 +1,15 @@
-# world_time
+This is the loading page:
 
-A new Flutter application.
+![Loading page](https://user-images.githubusercontent.com/69011842/116774992-e7b58900-aa7d-11eb-9d70-8448ac25c50c.jpeg)
 
-## Getting Started
+After, the laoding is done, it redirects to the home page: 
 
-This project is a starting point for a Flutter application.
+![Home page](https://user-images.githubusercontent.com/69011842/116775010-fac85900-aa7d-11eb-9e88-310d47d9351c.jpeg)
 
-A few resources to get you started if this is your first Flutter project:
+This defaults to Kolkata, but the user can change the location in the location panel:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Settings](https://user-images.githubusercontent.com/69011842/116775025-116eb000-aa7e-11eb-81a9-cb472094e507.jpeg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The current time of the selected location will be displayed:
+
+![Changed page](https://user-images.githubusercontent.com/69011842/116775037-28ad9d80-aa7e-11eb-8e67-e6c4b956a3a0.jpeg)
